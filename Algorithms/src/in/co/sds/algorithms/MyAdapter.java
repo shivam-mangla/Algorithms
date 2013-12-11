@@ -1,4 +1,4 @@
-package com.example.algorithms;
+package in.co.sds.algorithms;
 
 import java.util.ArrayList;
 

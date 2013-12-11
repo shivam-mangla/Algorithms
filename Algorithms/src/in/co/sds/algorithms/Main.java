@@ -1,4 +1,6 @@
-package com.example.algorithms;
+package in.co.sds.algorithms;
+
+import com.example.algorithms.R;
 
 import android.app.Activity;
 import android.content.Intent;

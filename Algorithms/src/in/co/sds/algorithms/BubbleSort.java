@@ -1,7 +1,9 @@
-package com.example.algorithms;
+package in.co.sds.algorithms;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+
+import com.example.algorithms.R;
 
 import android.app.Activity;
 import android.os.Bundle;
